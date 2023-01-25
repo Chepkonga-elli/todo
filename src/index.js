@@ -15,3 +15,7 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+// const todoInput = document.querySelector('.todo-input');
+// const todoButton = document.querySelector('.todo-button');
+// const todoList = document.querySelector('.todo-list');
